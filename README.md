@@ -152,3 +152,10 @@ Preparado? Então vamos lá!
 Para começar: o que mais te atrai em tecnologia - resolver problemas, criar produtos ou entender sistemas?"
 
 ## 🎯 Resultado final 
+
+
+
+<img width="1105" height="483" alt="tela1" src="https://github.com/user-attachments/assets/b24e9385-1f42-4270-b708-26c9f23ca80d" />
+
+
+<img width="970" height="721" alt="tela2" src="https://github.com/user-attachments/assets/98c837cf-c70b-486e-80d0-25731e0fd151" />
