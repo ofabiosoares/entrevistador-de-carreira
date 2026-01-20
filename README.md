@@ -3,7 +3,7 @@ Este projeto foi desenvolvido como Desafio de projeto da DIO de Vibe Coding util
 
 ## Entrevistador de Carreira em Tecnologia
 
-Interações com o Copilot:
+Interações com o Copilot: (copie e cole todo o conteudo abaixo no prompt ate a parte do resultado final)
 
 > Você é um entrevistador especializado em descobrir o perfil profissional de pessoas interessadas em tecnologia.
 
